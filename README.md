@@ -33,11 +33,15 @@
 - 📚 **Learning Mindset**: Constantly evolving and always eager to acquire new skills
 - 💼 **Career Opportunities**: Open to roles in Offensive Security and Defensive Security
 
-🧪 **Hands-On Experience**:
-- Built a VMware ESXi lab with pfSense, Snort IDS, Wazuh SIEM, OpenVAS, AD, and Linux systems
-- Completed labs from CEH, Security+, and HTB SOC Analyst Path
-- Participated in monthly CEH CTFs and HTB Red Teaming Track
+---
 
+🧪 **Hands-On Experience**:
+<h3 align="center">Hands-On Experience</h3>
+<ul>
+  <li>Built a <strong>VMware ESXi</strong> lab with <strong>pfSense</strong>, <strong>Snort IDS</strong>, <strong>Wazuh SIEM</strong>, <strong>OpenVAS</strong>, <strong>AD</strong>, and <strong>Linux</strong> systems.</li>
+  <li>Completed labs from <strong>CEH</strong>, <strong>Security+</strong>, and <strong>HTB SOC Analyst Path</strong>.</li>
+  <li>Participated in monthly <strong>CEH CTFs</strong> and <strong>HTB Red Teaming Track</strong>.</li>
+</ul>
 📚 **Certifications**:
 - 🧾 CEH (Certified Ethical Hacker)
 - 🧾 CompTIA Security+, Network+, A+, ITF+, CSIS Stack
