@@ -27,11 +27,11 @@
 
 🔐 I am a Computer Science graduate with experience in IT, passionate about protecting digital systems and advancing in the field of cybersecurity.
 
-🎓 Academic Background: BSc (Hons) in Computing
-🎯 Areas of Expertise: Defensive Security & Offensive Security
-💼 Current Role: IT Technician
-📚 Learning Mindset: Constantly evolving and always eager to acquire new skills
-💼 Career Opportunities: Open to roles in Offensive Security and Defensive Security
+- 🎓 **Academics**: BSc (Hons) in Computing
+- 🎯 **Focus Areas**: Defensive Security & Offensive Security
+- 💼 **Current Role**: IT Technician
+- 📚 **Learning Mindset**: Constantly evolving and always eager to acquire new skills
+- 💼 **Career Opportunities**: Open to roles in Offensive Security and Defensive Security
 
 🧪 **Hands-On Experience**:
 - Built a VMware ESXi lab with pfSense, Snort IDS, Wazuh SIEM, OpenVAS, AD, and Linux systems
