@@ -58,6 +58,19 @@ z<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a6
 
 ---
 
+#### 🌐 Secure Web App (University Dissertation)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Technologies**: PHP, SQL, JavaScript, HTML, CSS
+- Implemented **input validation**, **session security**, and **user authentication**.
+- Applied **OWASP Top 10 best practices** for web security to ensure the application is resilient against common web vulnerabilities.
+
+---
+
 #### Completed Labs
 ![CEH Badge](https://img.shields.io/badge/CEH-2E2E2E?style=for-the-badge&logo=ec-council&logoColor=white)
 ![Security+ Badge](https://img.shields.io/badge/Security%2B-0033A0?style=for-the-badge&logo=comptia&logoColor=white)
