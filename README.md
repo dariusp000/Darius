@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Darius 👋</h1>
 <p align="center">
   <a href="https://github.com/constantinp000">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7B68EE&width=700&height=45&center=true&vCenter=true&lines=Junior+Cybersecurity+Analyst+%7C+Ethical+Hacker;BSc+Computing+Graduate+%7C+Hands-on+Lab+Builder;SIEM+%26+Endpoint+Security+%7C+Threat+Detection+Ninja;Passionate+about+Learning+%26+Protecting+Systems"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7B68EE&width=700&height=45&center=true&vCenter=true&lines=Junior+Cybersecurity+Analyst+%7C+Defensive+%26+Offensive+Security+Focused;BSc+Computing+Graduate+%7C+Hands-on+Security+Lab+Experience;SIEM+%26+Endpoint+Security+%7C+Threat+Detection+Enthusiast;Driven+to+Learn+%26+Protect+Digital+Systems"/>
   </a>
 </p>
 
