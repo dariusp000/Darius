@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a663516c56d54525c1e04f3e339e1494/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374236384545266865696768743d3132302673656374696f6e3d686561646572" width="2000" />
 </p>
 
-<h1 align="center">Hi, I'm Constantin D. Pirvu 👋</h1>
+<h1 align="center">Hi, I'm Darius 👋</h1>
 <p align="center">
   <a href="https://github.com/constantinp000">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7B68EE&width=700&height=45&center=true&vCenter=true&lines=Junior+Cybersecurity+Analyst+%7C+Ethical+Hacker;BSc+Computing+Graduate+%7C+Hands-on+Lab+Builder;SIEM+%26+Endpoint+Security+%7C+Threat+Detection+Ninja;Passionate+about+Learning+%26+Protecting+Systems"/>
