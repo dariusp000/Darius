@@ -120,22 +120,15 @@
 
 ---
 
-## 🚀 Featured Projects
+## 👨‍💻 Scripting & Programming
 
-### 🧪 VMware Cyber Lab (Enterprise Simulation)
-- Built a realistic lab using ESXi, VLANs, pfSense firewall, Snort IDS, Wazuh SIEM
-- Deployed Active Directory, Kali Linux, Ubuntu, and Windows machines
-- Conducted blue/red team simulation using OpenVAS for vulnerability discovery
-
-### 🌐 Secure Web App (University Dissertation)
-- Technologies: PHP, SQL, JavaScript, HTML, CSS
-- Implemented input validation, session security, user authentication
-- Applied OWASP Top 10 best practices for web security
-
-### 🎯 Phishing Simulation Campaign (Live Environment)
-- Designed phishing templates and tracked staff engagement
-- Produced training video showing the full exploit lifecycle
-- Used Mimecast, Outlook policy, and Active Directory hardening
+<p align="center">
+  ![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![PowerShell Badge](https://img.shields.io/badge/PowerShell-2E2F3E?style=for-the-badge&logo=powershell&logoColor=white)
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+</p>
 
 ---
 
