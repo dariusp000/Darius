@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=130&section=header&text=Welcome+to+my+Cybersecurity+Portfolio&fontColor=ffffff&fontSize=30&desc=Constantin%20D.%20Pirvu%20%7C%20Entry-Level+Cybersecurity+Analyst&descAlign=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?
 </p>
 
 <h1 align="center">Hi, I'm Constantin D. Pirvu 👋</h1>
