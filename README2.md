@@ -105,14 +105,3 @@ SIEM (Splunk, Wazuh) | Incident Response | Secure Web Development | IDS/IPS | AD
 📧 [dariuspirvu000@yahoo.com](mailto:dariuspirvu000@yahoo.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/constantin-pirvu-984019224)
 
----
-
-<sub>© 2025 Constantin D. Pirvu – Designed for visual impact on GitHub & GitHub Pages using Markdown + HTML + SVG. Assets folder required for full styling.</sub>
-
----
-
-### 🛠️ Tech Used:
-- **Markdown** for structure
-- **Inline HTML** for layout and images
-- **SVG/PNG** for icons and badges
-- **GitHub Pages** compatible layout
