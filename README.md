@@ -62,6 +62,7 @@
   <img src="https://img.shields.io/badge/OpenVAS-32CD32?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/VMware%20ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
   <img src="https://img.shields.io/badge/WatchGuard-DC143C?style=for-the-badge"/>
+  <i>And more ...</i>
 </p>
 
 ---
