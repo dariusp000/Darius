@@ -84,11 +84,3 @@ SIEM (Splunk, Wazuh) | Incident Response | Secure Web Development | IDS/IPS | AD
 | Secure Infrastructure Specialist | CompTIA |
 
 ![Cert Badges](assets/certs.png)
-
----
-
-## 📫 Contact
-
-📧 [dariuspirvu000@yahoo.com](mailto:dariuspirvu000@yahoo.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/constantin-pirvu-984019224)
-
