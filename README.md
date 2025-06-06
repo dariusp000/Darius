@@ -92,7 +92,7 @@ z<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a6
 
 ---
 
-## 🧰 Tools I Master
+## 🧰 Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white"/>
