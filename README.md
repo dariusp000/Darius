@@ -59,15 +59,15 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constantinp000&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariusp000&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=constantinp000&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dariusp000&show_icons=true&theme=radical" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantinp000&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusp000&layout=compact&theme=radical" height="200"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=constantinp000&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dariusp000&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
