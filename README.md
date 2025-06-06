@@ -1,75 +1,78 @@
-# Hello, I'm Darius
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=130&section=header" />
+</p>
 
-[Brief Introduction - Remove this afterwards]
+<h1 align="center">Hey, I'm Constantin D. Pirvu 👋</h1>
+<p align="center">
+  <a href="https://github.com/constantinp000">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=7B68EE&width=600&lines=Cybersecurity+Technician+%7C+Ethical+Hacker;SIEM+%26+SOC+Analyst;Red+%2F+Blue+Team+Ops;Secure+Infra+Engineer;Always+Learning+%F0%9F%92%AB">
+  </a>
+</p>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=constantinp000&label=Profile%20views&color=7B68EE&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/constantinp000?label=Follow&style=social" />
+</p>
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+---
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## 👨‍💻 About Me
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<p align="right">
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300" height="220" />
+</p>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+🔐 I'm a UK-based **Cybersecurity Technician** with hands-on experience in red teaming, SIEM/SOC operations, vulnerability management, and enterprise-grade virtual lab simulation.
 
-## Tools
+💡 I specialize in:
+- Threat detection and incident response
+- Vulnerability scanning and secure infrastructure
+- Phishing simulations and endpoint protection
 
-### Network & Security Monitoring
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-0080FF?&style=for-the-badge&logo=Nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-F80000?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-WatchGuard-D1001C?&style=for-the-badge&logo=WatchGuard&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PRTG-FFCC00?&style=for-the-badge&logo=Paessler&logoColor=black" />
-</div>
+🎓 Graduated with a **BSc in Computing** from Arden University. Developed a secure full-stack web app for my dissertation.
 
-### Vulnerability Assessment & Pen Testing
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit-504C4C?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-0096D6?&style=for-the-badge&logo=Tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-6BBE44?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
-</div>
+📚 Trained in CEH, Security+, and the Hack The Box SOC Analyst & Red Team tracks.
 
-### SIEM & Threat Detection
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-472978?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
+🎯 Career goal: Contribute to proactive security teams in offensive/defensive roles and continuously grow within cybersecurity.
 
-### Infrastructure & Email Security
-<div>
-    <img src="https://img.shields.io/badge/-VMware_ESXi/Workstation_Pro-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ManageEngine-00AEEF?&style=for-the-badge&logo=ManageEngine&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Mimecast-005EB8?&style=for-the-badge&logo=Mimecast&logoColor=white" />
-</div>
+---
 
-### Administration & Forensics
-<div>
-    <img src="https://img.shields.io/badge/-Active_Directory-4169E1?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SysAid-009688?&style=for-the-badge&logo=SysAid&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Autopsy-333333?&style=for-the-badge&logoColor=white" />
-</div>
+## 🧰 Tool Stack
 
-## Certifications
-<div>
-  <img src="https://img.shields.io/badge/-CEH-800000?&style=for-the-badge&logo=CEH&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ITF%2B-228B22?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Wireshark-007ACC?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-005C94?style=flat-square&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=flat-square&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-005C94?style=flat-square"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenVAS-50C878?style=flat-square"/>
+</p>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=constantinp000&show_icons=true&theme=radical" height="200"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantinp000&layout=compact&theme=radical" height="200"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:dariuspirvu000@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=7B68EE"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/constantin-pirvu-984019224"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=130&section=footer" />
+</p>
+
+<!-- Remaining portfolio content continues below -->
+
