@@ -139,20 +139,6 @@
 
 ---
 
-## 🏁 Completions & Capture The Flag (CTFs)
-
-🛠️ **CEH Practical Labs** — Gained hands-on experience simulating attacks using real-world tools and techniques. Covered topics such as reconnaissance, scanning, and exploitation in a controlled lab setting.
-
-🕵️‍♂️ **Hack The Box Red Team Path** — Practiced privilege escalation, post-exploitation, and evasion tactics using advanced HTB boxes. 
-
-🔒 **Hack The Box SOC Analyst Path** — Completed the CDSA-aligned curriculum, focusing on SIEM tools, threat detection, triage, and incident response workflows.
-
-🏆 **CEH Monthly CTF Competitions** — Participated in multiple CTF challenges requiring creative problem solving, reverse engineering, and secure posturing. Developed fast-response and attack analysis skills.
-
-🧠 **Capture & Analyze Attacks in Custom Lab** — Built lab to launch and detect simulated attacks using Snort, Wazuh, and OpenVAS. Practiced log correlation, alert triage, and attack path documentation.
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
