@@ -9,8 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=constantinp000&label=Profile%20views&color=7B68EE&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/constantinp000?label=Follow&style=social" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_the_United_Kingdom.svg" alt="UK Flag" height="20px" width="30px" style="border: 1px solid #0047AB; border-radius: 5px; box-shadow: 0 0 5px #0047AB; margin-left: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg" alt="Romanian Flag" height="20px" width="30px" style="border: 1px solid #0047AB; border-radius: 5px; box-shadow: 0 0 5px #0047AB; margin-left: 5px;"/><br><br>
+  
+  <img src="https://komarev.com/ghpvc/?username=dariusp000&label=Profile%20views&color=7B68EE&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/dariusp000?label=Follow&style=social" />
 </p>
 
 ---
