@@ -42,13 +42,15 @@
   <li>Completed labs from <strong>CEH</strong>, <strong>Security+</strong>, and <strong>HTB SOC Analyst Path</strong>.</li>
   <li>Participated in monthly <strong>CEH CTFs</strong> and <strong>HTB Red Teaming Track</strong>.</li>
 </ul>
-📚 **Certifications**:
-- 🧾 CEH (Certified Ethical Hacker)
-- 🧾 CompTIA Security+, Network+, A+, ITF+, CSIS Stack
+---
+## 🧰 Certifications
 
-💬 I love sharing what I learn, building realistic lab scenarios, and pushing my limits in red/blue team skill sets.
-
-🌟 **Goal**: To grow into a SOC Analyst or Junior Penetration Tester role where I can contribute to real-world cyber defense.
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC-Council%20CEH-0078D4?style=for-the-badge&logo=ec-council&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <p>And more...</p>
+</p>
 
 ---
 
