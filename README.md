@@ -1,12 +1,11 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=130&section=header&text=Welcome+to+my+Cybersecurity+Portfolio&fontColor=ffffff&fontSize=30&desc=Constantin%20D.%20Pirvu%20%7C%20Digital%20Defender&descAlign=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=130&section=header&text=Welcome+to+my+Cybersecurity+Portfolio&fontColor=ffffff&fontSize=30&desc=Constantin%20D.%20Pirvu%20%7C%20Entry-Level+Cybersecurity+Analyst&descAlign=60&descSize=20" />
 </p>
 
-<h1 align="center">Hey, I'm Constantin D. Pirvu 👋</h1>
+<h1 align="center">Hi, I'm Constantin D. Pirvu 👋</h1>
 <p align="center">
   <a href="https://github.com/constantinp000">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7B68EE&width=700&height=45&center=true&vCenter=true&lines=Cybersecurity+Technician+%7C+Ethical+Hacker;Red+Team+%7C+Blue+Team+%7C+SIEM+Expert;Virtual+Labs+Builder+%7C+Incident+Responder;Passionate+about+Digital+Defense+%26+Secure+Coding"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7B68EE&width=700&height=45&center=true&vCenter=true&lines=Junior+Cybersecurity+Analyst+%7C+Ethical+Hacker;BSc+Computing+Graduate+%7C+Hands-on+Lab+Builder;SIEM+%26+Endpoint+Security+%7C+Threat+Detection+Ninja;Passionate+about+Learning+%26+Protecting+Systems"/>
   </a>
 </p>
 
@@ -23,19 +22,27 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjM2VkZjVhNmQxOTAzNmNjYjA1MmEwMzM0MTU2YTJmNmRhMzZlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="300" height="220" />
 </p>
 
-🔐 I'm a UK-based **Cybersecurity Technician** with a deep background in:
-- 🧠 Threat intelligence, SIEM (Wazuh/Splunk), and endpoint protection
-- ⚔️ Red team challenges (CEH, HTB Red Team, privilege escalation labs)
-- 🛡️ Blue team ops (SOC triage, log analysis, and phishing simulations)
+🔐 I'm an **entry-level cybersecurity technician** based in the UK, passionate about defending digital systems and growing in the cybersecurity field.
 
-🎓 Earned a **BSc in Computing** from Arden University. Developed a secure full-stack web app as a dissertation project using **PHP, SQL, JS, HTML/CSS**.
+🎓 I recently earned a **BSc (Hons) in Computing** from Arden University, where I built a secure full-stack web application for my dissertation.
 
-🏗️ Built a fully segmented VMware ESXi home lab with VLANs, pfSense firewall, Snort IDS, Wazuh SIEM, and multiple OSes for live attack simulation.
+💼 Currently working as an **IT Support Analyst** at Clarke Energy where I:
+- Respond to cybersecurity threats and phishing emails
+- Monitor endpoint protection (EDR/AV)
+- Manage Active Directory access control
 
-📜 Certified in:
-- CEH • Security+ • Network+ • A+ • CSIS Stack • ITF+
+🧪 **Hands-On Experience**:
+- Built a VMware ESXi lab with pfSense, Snort IDS, Wazuh SIEM, OpenVAS, AD, and Linux systems
+- Completed labs from CEH, Security+, and HTB SOC Analyst Path
+- Participated in monthly CEH CTFs and HTB Red Teaming Track
 
-🎯 Goal: To join a forward-thinking cyber defense team where I can deliver offensive and defensive value, grow technically, and make a real impact.
+📚 **Certifications**:
+- 🧾 CEH (Certified Ethical Hacker)
+- 🧾 CompTIA Security+, Network+, A+, ITF+, CSIS Stack
+
+💬 I love sharing what I learn, building realistic lab scenarios, and pushing my limits in red/blue team skill sets.
+
+🌟 **Goal**: To grow into a SOC Analyst or Junior Penetration Tester role where I can contribute to real-world cyber defense.
 
 ---
 
@@ -59,15 +66,15 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dariusp000&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=constantinp000&theme=radical"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dariusp000&show_icons=true&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=constantinp000&show_icons=true&theme=radical" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dariusp000&layout=compact&theme=radical" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constantinp000&layout=compact&theme=radical" height="200"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dariusp000&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=constantinp000&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -75,18 +82,33 @@
 ## 🚀 Featured Projects
 
 ### 🧪 VMware Cyber Lab (Enterprise Simulation)
-- VLANs on vSwitches, DHCP relay, pfSense firewall, Snort IDS, Wazuh SIEM
-- Active Directory with Windows clients and Kali/Ubuntu attack machines
-- OpenVAS scans, real-time alerts, blue/red team simulations
+- Built a realistic lab using ESXi, VLANs, pfSense firewall, Snort IDS, Wazuh SIEM
+- Deployed Active Directory, Kali Linux, Ubuntu, and Windows machines
+- Conducted blue/red team simulation using OpenVAS for vulnerability discovery
 
 ### 🌐 Secure Web App (University Dissertation)
-- Built in PHP, SQL, JS, HTML/CSS with secure authentication & input handling
-- Followed OWASP Top 10 principles to prevent injection & session hijacking
+- Technologies: PHP, SQL, JavaScript, HTML, CSS
+- Implemented input validation, session security, user authentication
+- Applied OWASP Top 10 best practices for web security
 
 ### 🎯 Phishing Simulation Campaign (Live Environment)
-- Created fake phishing emails, tracked clicks & actions
-- Presented a live video demo showing attacker/victim sides
-- Used Mimecast, Outlook rules, and AD-based lockdown measures
+- Designed phishing templates and tracked staff engagement
+- Produced training video showing the full exploit lifecycle
+- Used Mimecast, Outlook policy, and Active Directory hardening
+
+---
+
+## 🏁 Completions & Capture The Flag (CTFs)
+
+🛠️ **CEH Practical Labs** — Gained hands-on experience simulating attacks using real-world tools and techniques. Covered topics such as reconnaissance, scanning, and exploitation in a controlled lab setting.
+
+🕵️‍♂️ **Hack The Box Red Team Path** — Practiced privilege escalation, post-exploitation, and evasion tactics using advanced HTB boxes. 
+
+🔒 **Hack The Box SOC Analyst Path** — Completed the CDSA-aligned curriculum, focusing on SIEM tools, threat detection, triage, and incident response workflows.
+
+🏆 **CEH Monthly CTF Competitions** — Participated in multiple CTF challenges requiring creative problem solving, reverse engineering, and secure posturing. Developed fast-response and attack analysis skills.
+
+🧠 **Capture & Analyze Attacks in Custom Lab** — Built lab to launch and detect simulated attacks using Snort, Wazuh, and OpenVAS. Practiced log correlation, alert triage, and attack path documentation.
 
 ---
 
