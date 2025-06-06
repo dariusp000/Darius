@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner.png" alt="Cybersecurity Portfolio Banner" style="width:100%;max-width:900px;border-radius:12px;">
   
-  # Constantin D. Pirvu  
+  # Darius Pirvu  
   **Cybersecurity Technician | Ethical Hacker | SIEM Analyst**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/constantin-pirvu-984019224)
