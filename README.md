@@ -37,10 +37,6 @@
 
 ## 🧪 Projects
 
-### Hands-On Experience
-
----
-
 #### VMware ESXi Lab
 ![pfSense Badge](https://img.shields.io/badge/pfSense-FF0000?style=for-the-badge&logo=pfSense&logoColor=white)
 ![Snort Badge](https://img.shields.io/badge/Snort%20IDS-2E2E2E?style=for-the-badge&logo=snort&logoColor=white)
