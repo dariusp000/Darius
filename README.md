@@ -25,14 +25,13 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjM2VkZjVhNmQxOTAzNmNjYjA1MmEwMzM0MTU2YTJmNmRhMzZlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="1100" height="220" />
 </p>
 
-🔐 I'm an **entry-level cybersecurity technician** based in the UK, passionate about defending digital systems and growing in the cybersecurity field.
+🔐 I am a Computer Science graduate with experience in IT, passionate about protecting digital systems and advancing in the field of cybersecurity.
 
-🎓 I recently earned a **BSc (Hons) in Computing** from Arden University, where I built a secure full-stack web application for my dissertation.
-
-💼 Currently working as an **IT Support Analyst** at Clarke Energy where I:
-- Respond to cybersecurity threats and phishing emails
-- Monitor endpoint protection (EDR/AV)
-- Manage Active Directory access control
+🎓 Academic Background: BSc (Hons) in Computing
+🎯 Areas of Expertise: Defensive Security & Offensive Security
+💼 Current Role: IT Technician
+📚 Learning Mindset: Constantly evolving and always eager to acquire new skills
+💼 Career Opportunities: Open to roles in Offensive Security and Defensive Security
 
 🧪 **Hands-On Experience**:
 - Built a VMware ESXi lab with pfSense, Snort IDS, Wazuh SIEM, OpenVAS, AD, and Linux systems
