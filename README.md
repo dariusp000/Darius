@@ -42,13 +42,18 @@
   <li>Completed labs from <strong>CEH</strong>, <strong>Security+</strong>, and <strong>HTB SOC Analyst Path</strong>.</li>
   <li>Participated in monthly <strong>CEH CTFs</strong> and <strong>HTB Red Teaming Track</strong>.</li>
 </ul>
+
 ---
+
 ## 🧰 Certifications
 
 <p align="center">
+ <img src="https://img.shields.io/badge/Certified%20Ethical%20Hacker%20(CEH)-2E2E2E?style=for-the-badge&logo=ec-council&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA%20Security%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC-Council%20CEH-0078D4?style=for-the-badge&logo=ec-council&logoColor=white"/>
   <img src="https://img.shields.io/badge/CompTIA%20Network%2B-0078D4?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-FB5B5A?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA%20Secure%20Infrastructure%20Specialist%20%28CSIS%29-0078D4?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA%20IT%20Fundamentals%20%28ITF%2B%29-0078D4?style=for-the-badge&logo=comptia&logoColor=white"/>
   <p>And more...</p>
 </p>
 
