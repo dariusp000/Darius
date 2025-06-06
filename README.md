@@ -62,8 +62,10 @@ z<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a6
 ![CEH Badge](https://img.shields.io/badge/CEH-2E2E2E?style=for-the-badge&logo=ec-council&logoColor=white)
 ![Security+ Badge](https://img.shields.io/badge/Security%2B-0033A0?style=for-the-badge&logo=comptia&logoColor=white)
 ![HTB Badge](https://img.shields.io/badge/HTB%20SOC%20Analyst-2A3C5C?style=for-the-badge&logo=hacking&logoColor=white)
+![CompTIA Network+ Badge](https://img.shields.io/badge/CompTIA%20Network%2B-1E4F99?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA CySA+ Badge](https://img.shields.io/badge/CompTIA%20CySA%2B-2C7D5F?style=for-the-badge&logo=comptia&logoColor=white)
 
-- **Certifications**: CEH, Security+, HTB SOC Analyst Path.
+- **Online-Labs**: Network+, Security+, CySA+, CEH, HTB SOC Analyst Path.
 - Completed practical labs focusing on ethical hacking, network defense, and SOC analysis.
 
 ---
@@ -74,10 +76,6 @@ z<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a6
 
 - **Participation**: Monthly CEH CTFs & HTB Red Teaming Track.
 - Actively participated in monthly CTF competitions and Red Teaming, sharpening my skills in offensive security.
-
----
-
-> *Note: Badges and icons are used to make the tools, certifications, and accomplishments more visually impactful.*
 
 ---
 
