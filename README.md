@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjM2VkZjVhNmQxOTAzNmNjYjA1MmEwMzM0MTU2YTJmNmRhMzZlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="1000" height="220" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjM2VkZjVhNmQxOTAzNmNjYjA1MmEwMzM0MTU2YTJmNmRhMzZlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="1100" height="220" />
 </p>
 
 🔐 I'm an **entry-level cybersecurity technician** based in the UK, passionate about defending digital systems and growing in the cybersecurity field.
