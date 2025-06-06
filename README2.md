@@ -5,7 +5,6 @@
   **Cybersecurity Technician | Ethical Hacker | SIEM Analyst**
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/constantin-pirvu-984019224)
-  [![Email](https://img.shields.io/badge/Email-dariuspirvu000%40yahoo.com-red)](mailto:dariuspirvu000@yahoo.com)
 </div>
 
 ---
