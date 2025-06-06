@@ -53,7 +53,6 @@ z<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a6
 ![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit Badge](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
 
-- **Technologies & Tools Used**: pfSense, Snort IDS, Wazuh SIEM, OpenVAS, Kali Linux, Nmap, Wireshark, OWASP ZAP, Burp Suite, Active Directory (AD), Metasploit Framework.
 - Built a robust VMware ESXi lab with multiple security tools to simulate real-world network security scenarios.
 - Configured network traffic filtering, threat detection, vulnerability scanning, penetration testing, and incident response workflows.
 
