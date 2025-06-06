@@ -45,9 +45,17 @@ z<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a6
 ![pfSense Badge](https://img.shields.io/badge/pfSense-FF0000?style=for-the-badge&logo=pfSense&logoColor=white)
 ![Snort Badge](https://img.shields.io/badge/Snort%20IDS-2E2E2E?style=for-the-badge&logo=snort&logoColor=white)
 ![Wazuh Badge](https://img.shields.io/badge/Wazuh-005C94?style=for-the-badge&logo=wazuh&logoColor=white)
+![OpenVAS Badge](https://img.shields.io/badge/OpenVAS-32CD32?style=for-the-badge&logo=openvas&logoColor=white)
+![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557CFF?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Nmap Badge](https://img.shields.io/badge/Nmap-004E89?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark Badge](https://img.shields.io/badge/Wireshark-007ACC?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP ZAP Badge](https://img.shields.io/badge/OWASP%20ZAP-ED1C24?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit Badge](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
 
-- **Technologies**: pfSense, Snort IDS, Wazuh SIEM, OpenVAS, AD, Linux Systems.
-- Built a robust lab with different security tools to simulate real-world network security scenarios.
+- **Technologies & Tools Used**: pfSense, Snort IDS, Wazuh SIEM, OpenVAS, Kali Linux, Nmap, Wireshark, OWASP ZAP, Burp Suite, Active Directory (AD), Metasploit Framework.
+- Built a robust VMware ESXi lab with multiple security tools to simulate real-world network security scenarios.
+- Configured network traffic filtering, threat detection, vulnerability scanning, penetration testing, and incident response workflows.
 
 ---
 
