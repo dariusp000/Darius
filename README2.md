@@ -64,19 +64,6 @@ SIEM (Splunk, Wazuh) | Incident Response | Secure Web Development | IDS/IPS | AD
 
 ---
 
-## 👨‍💼 Work Experience
-
-### Clarke Energy – IT Support Analyst _(2022–Present)_
-- Handled Active Directory permissions, user lifecycle, endpoint patching.
-- Led phishing simulation presentations, created educational video & attack demo.
-- Identified malware and secured endpoints across departments.
-
-### The Hut Group – System Administrator _(2020–2022)_
-- Managed WMS and internal reporting.
-- Troubleshot IT issues and automated business processes using Excel formulas.
-
----
-
 ## 🧪 Cybersecurity Labs & CTFs
 
 - 🔐 **CEH Practical Labs & CTFs** – Monthly Red Team challenges
