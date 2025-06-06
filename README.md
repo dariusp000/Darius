@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a663516c56d54525c1e04f3e339e1494/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374236384545266865696768743d3132302673656374696f6e3d686561646572" width="2000" />
+z<img src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a663516c56d54525c1e04f3e339e1494/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374236384545266865696768743d3132302673656374696f6e3d686561646572" width="2000" />
 </p>
 
 <h1 align="center">Hi, I'm Darius 👋</h1>
@@ -37,42 +37,40 @@
 
 ## 🧪 Projects
 
-<h3 align="center">Hands-On Experience</h3>
+### Hands-On Experience
 
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+---
 
-    <!-- Project 1: VMware ESXi Lab -->
-    <div style="border: 2px solid #0078D4; padding: 20px; border-radius: 10px; max-width: 300px; background-color: #f1f8ff;">
-      <h4 style="color: #0078D4; text-align: center;">VMware ESXi Lab</h4>
-      <img src="https://img.shields.io/badge/pfSense-FF0000?style=for-the-badge&logo=pfSense&logoColor=white" alt="pfSense Badge" />
-      <img src="https://img.shields.io/badge/Snort%20IDS-2E2E2E?style=for-the-badge&logo=snort&logoColor=white" alt="Snort Badge" />
-      <img src="https://img.shields.io/badge/Wazuh-005C94?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Badge" />
-      <p><strong>Technologies:</strong> pfSense, Snort IDS, Wazuh SIEM, OpenVAS, AD, Linux Systems.</p>
-      <p style="font-size: 14px;">Built a robust lab with different security tools to simulate real-world network security scenarios.</p>
-    </div>
+#### VMware ESXi Lab
+![pfSense Badge](https://img.shields.io/badge/pfSense-FF0000?style=for-the-badge&logo=pfSense&logoColor=white)
+![Snort Badge](https://img.shields.io/badge/Snort%20IDS-2E2E2E?style=for-the-badge&logo=snort&logoColor=white)
+![Wazuh Badge](https://img.shields.io/badge/Wazuh-005C94?style=for-the-badge&logo=wazuh&logoColor=white)
 
-    <!-- Project 2: Completed Labs -->
-    <div style="border: 2px solid #FF6F00; padding: 20px; border-radius: 10px; max-width: 300px; background-color: #fff5e1;">
-      <h4 style="color: #FF6F00; text-align: center;">Completed Labs</h4>
-      <img src="https://img.shields.io/badge/CEH-2E2E2E?style=for-the-badge&logo=ec-council&logoColor=white" alt="CEH Badge" />
-      <img src="https://img.shields.io/badge/Security%2B-0033A0?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+ Badge" />
-      <img src="https://img.shields.io/badge/HTB%20SOC%20Analyst-2A3C5C?style=for-the-badge&logo=hacking&logoColor=white" alt="HTB Badge" />
-      <p><strong>Certifications:</strong> CEH, Security+, HTB SOC Analyst Path.</p>
-      <p style="font-size: 14px;">Completed practical labs focusing on ethical hacking, network defense, and SOC analysis.</p>
-    </div>
+- **Technologies**: pfSense, Snort IDS, Wazuh SIEM, OpenVAS, AD, Linux Systems.
+- Built a robust lab with different security tools to simulate real-world network security scenarios.
 
-    <!-- Project 3: CTF Participation -->
-    <div style="border: 2px solid #28A745; padding: 20px; border-radius: 10px; max-width: 300px; background-color: #e8f7e7;">
-      <h4 style="color: #28A745; text-align: center;">Capture the Flag (CTF)</h4>
-      <img src="https://img.shields.io/badge/CTF-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="CTF Badge" />
-      <img src="https://img.shields.io/badge/Red%20Teaming%20Track-900C3F?style=for-the-badge&logo=hacking&logoColor=white" alt="Red Team Badge" />
-      <p><strong>Participation:</strong> Monthly CEH CTFs & HTB Red Teaming Track.</p>
-      <p style="font-size: 14px;">Actively participated in monthly CTF competitions and Red Teaming, sharpening my skills in offensive security.</p>
-    </div>
-    
-  </div>
-</div>
+---
+
+#### Completed Labs
+![CEH Badge](https://img.shields.io/badge/CEH-2E2E2E?style=for-the-badge&logo=ec-council&logoColor=white)
+![Security+ Badge](https://img.shields.io/badge/Security%2B-0033A0?style=for-the-badge&logo=comptia&logoColor=white)
+![HTB Badge](https://img.shields.io/badge/HTB%20SOC%20Analyst-2A3C5C?style=for-the-badge&logo=hacking&logoColor=white)
+
+- **Certifications**: CEH, Security+, HTB SOC Analyst Path.
+- Completed practical labs focusing on ethical hacking, network defense, and SOC analysis.
+
+---
+
+#### Capture the Flag (CTF) Participation
+![CTF Badge](https://img.shields.io/badge/CTF-FF5733?style=for-the-badge&logo=firefox&logoColor=white)
+![Red Team Badge](https://img.shields.io/badge/Red%20Teaming%20Track-900C3F?style=for-the-badge&logo=hacking&logoColor=white)
+
+- **Participation**: Monthly CEH CTFs & HTB Red Teaming Track.
+- Actively participated in monthly CTF competitions and Red Teaming, sharpening my skills in offensive security.
+
+---
+
+> *Note: Badges and icons are used to make the tools, certifications, and accomplishments more visually impactful.*
 
 ---
 
