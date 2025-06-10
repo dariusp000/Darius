@@ -54,7 +54,8 @@
   • Attack subnet with Kali Linux for offensive security testing  
   • Vulnerable subnet hosting Metasploitable, OWASP vulnerable webapps, and Windows 7 for exploitation practice  
   • Enterprise subnet containing Windows servers (including Domain Controller), Windows 10 clients, an Android device, and a defensive Ubuntu machine  
-- Configured pfSense as the central firewall and DHCP/DHCP helpder
+- Configured pfSense as the central router/firewall and DHCP
+- Enabled inter-subnet communication by configuring routing and firewall rules on pfSense, allowing subnets to interact; used a DHCP helper to centralize IP address allocation across all subnets
 - Deployed Snort IDS on pfSense to monitor and detect network intrusions across all subnets  
 - Installed and integrated defensive tools on the Ubuntu machine, including Wazuh for endpoint monitoring, OpenVAS for vulnerability scanning, and Wireshark for traffic analysis  
 - Utilized Kali Linux tools such as Nmap, Burp Suite, OWASP ZAP, and Metasploit to perform penetration testing and assess security posture within the lab environment  
