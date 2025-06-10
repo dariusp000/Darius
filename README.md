@@ -55,6 +55,18 @@
 
 ---
 
+#### Azure Virtual Machine Monitoring with Microsoft Sentinel
+![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Sentinel Badge](https://img.shields.io/badge/Microsoft%20Sentinel-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
+![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557CFF?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+- Implemented Microsoft Sentinel SIEM to monitor a Windows 11 Azure VM by configuring log collection and analytics rules to detect successful Remote Desktop Protocol (RDP) logins.
+- Validated alert functionality by connecting to the VM via RDP from a Kali Linux machine, successfully triggering detection alerts.
+- Performed incident analysis on the generated alerts to expand my understanding of SIEM operations and incident response workflows.
+- Gained practical experience in cloud infrastructure monitoring, security alert creation, and investigation using Microsoft Sentinel.
+  
+---
+
 #### Secure Web App (University Dissertation)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
