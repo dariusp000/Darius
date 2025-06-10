@@ -28,7 +28,7 @@
 🔐 I am a Computer Science graduate with experience in IT, passionate about protecting digital systems and advancing in the field of cybersecurity.
 
 - 🎓 **Academics**: BSc (Hons) in Computing
-- 🎯 **Focus Areas**: Defensive Security & Offensive Security
+- 🎯 **Focus Areas**: Defensive & Offensive Security
 - 💼 **Current Role**: IT Technician
 - 📚 **Learning Mindset**: Constantly evolving and always eager to acquire new skills
 - 💼 **Career Opportunities**: Open to roles in Offensive Security and Defensive Security
