@@ -55,7 +55,7 @@
 
 ---
 
-#### Azure Virtual Machine Monitoring with Microsoft Sentinel
+#### Azure Monitoring with Microsoft Sentinel
 ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Sentinel Badge](https://img.shields.io/badge/Microsoft%20Sentinel-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Kali Linux Badge](https://img.shields.io/badge/Kali%20Linux-557CFF?style=for-the-badge&logo=kali-linux&logoColor=white)
