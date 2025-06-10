@@ -50,8 +50,15 @@
 ![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit Badge](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white)
 
-- Built a robust VMware ESXi lab with multiple security tools to simulate real-world network security scenarios.
-- Configured network traffic filtering, threat detection, vulnerability scanning, penetration testing, and incident response workflows.
+- Designed and implemented a segmented VMware ESXi home lab with three subnets:  
+  • Attack subnet with Kali Linux for offensive security testing  
+  • Vulnerable subnet hosting Metasploitable, OWASP vulnerable webapps, and Windows 7 for exploitation practice  
+  • Enterprise subnet containing Windows servers (including Domain Controller), Windows 10 clients, an Android device, and a defensive Ubuntu machine  
+- Configured pfSense as the central firewall and DHCP/DHCP helpder
+- Deployed Snort IDS on pfSense to monitor and detect network intrusions across all subnets  
+- Installed and integrated defensive tools on the Ubuntu machine, including Wazuh for endpoint monitoring, OpenVAS for vulnerability scanning, and Wireshark for traffic analysis  
+- Utilized Kali Linux tools such as Nmap, Burp Suite, OWASP ZAP, and Metasploit to perform penetration testing and assess security posture within the lab environment  
+- Simulated realistic enterprise network security scenarios to develop skills in threat detection, incident response, vulnerability management, and penetration testing  
 
 ---
 
