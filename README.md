@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 <p align="right">
-  <img src="https://tenor.com/en-GB/view/security-shield-protect-your-network-gif-13652062" width="1110" height="220"
+  <img src="https://media1.tenor.com/m/xnDaTMFs4f0AAAAd/security-shield.gif" width="1110" height="220"
   />
 </p>
 
