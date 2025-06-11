@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Darius 👋</h1>
 <p align="center">
   <a href="https://github.com/constantinp000">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7B68EE&width=700&height=45&center=true&vCenter=true&lines=Defensive+%26+Offensive+Security+Focused;BSc+Computing+Graduate+%7C+Hands-on+Security+Lab+Experience;CompTIA+%26+EC-Council+Certified+%7C+IT+Technician+Experience;SIEM+%26+Endpoint+Security+%7C+Threat+Detection;Driven+to+Learn+%26+Protect+Digital+Systems"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7B68EE&width=700&height=45&center=true&vCenter=true&lines=Defensive+%26+Offensive+Security+Focused;BSc+Computing+Graduate+%7C+Hands-on+Security+Lab+Experience;'CompTIA+%26+EC-Council+Certified+%7C+IT+Technician+Experience;SIEM+%26+Endpoint+Security+%7C+Threat+Detection;Driven+to+Learn+%26+Protect+Digital+Systems"/>
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjM2VkZjVhNmQxOTAzNmNjYjA1MmEwMzM0MTU2YTJmNmRhMzZlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="1100" height="220" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqdzdyOWttbm84dGIzZGszeWl0amlkOXE4ZjFuemk1dXNrcDVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lo5HLcAPFSgTZNTpAn/giphy.gif" width="1100" height="220" />
 </p>
 
 🔐 I am a Computer Science graduate with experience in IT, passionate about protecting digital systems and advancing in the field of cybersecurity.
