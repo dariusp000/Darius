@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 <p align="right">
-  <img src="https://media1.tenor.com/m/xnDaTMFs4f0AAAAd/security-shield.gif" width="1110" height="220"
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG52YTZhdmN2dWU1cWJkb2NqMWs5cDBobTZxYnpybGc4dHZ5cjkyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ZdCHb2JwBAg88FBluT/giphy.gif" width="1110" height="220"
   />
 </p>
 
