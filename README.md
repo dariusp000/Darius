@@ -22,7 +22,7 @@
 ## 👨‍💻 About Me
 
 <p align="right">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlqdzdyOWttbm84dGIzZGszeWl0amlkOXE4ZjFuemk1dXNrcDVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lo5HLcAPFSgTZNTpAn/giphy.gif" width="110" height="220"
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdjM2VkZjVhNmQxOTAzNmNjYjA1MmEwMzM0MTU2YTJmNmRhMzZlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="1110" height="220"
   />
 </p>
 
